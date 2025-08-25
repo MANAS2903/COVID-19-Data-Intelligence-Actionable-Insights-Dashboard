@@ -1,6 +1,6 @@
 # COVID-19 Trend Analysis & Prediction with Python & Tableau
 
-## Overview
+## ✨ Overview  
 
 This repository presents an end-to-end COVID-19 data analysis and visualization solution built with Python for data analytics and Tableau for dynamic dashboards. It provides actionable insights into confirmed cases, recoveries, deaths, and vaccination trends across countries and Indian states.
 
